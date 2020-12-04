@@ -7,4 +7,5 @@
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Furtsy&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Furtsy&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=Furtsy&theme=tokyonight)
 </p>
